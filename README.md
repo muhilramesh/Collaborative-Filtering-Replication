@@ -84,8 +84,8 @@ Metrics: **RMSE, MAE, Precision@10, Recall@10, F1@10, NDCG@10, Coverage**.
 
 ```
 .
-├── collaborative_filtering.ipynb   # Main notebook (all models, evaluation, plots)
-├── Replication_Paper.pdf           # Full write-up with results and discussion
+├── ReplicationFinal (2).ipynb   # Main notebook (all models, evaluation, plots)
+├── Replication_Paper (1).pdf           # Full write-up with results and discussion
 └── README.md
 ```
 
